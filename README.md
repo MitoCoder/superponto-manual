@@ -1,7 +1,5 @@
 # Ponto Supremo
 
-![Ponto Supremo](https://via.placeholder.com/150) <!-- Você pode adicionar um logo ou imagem do seu projeto aqui -->
-
 ## 📊 Descrição
 
 **Ponto Supremo** é um sistema de gerenciamento de ponto manual desenvolvido com React para o frontend e Node.js com MongoDB para o backend. Este projeto tem como objetivo facilitar o registro e controle das horas trabalhadas, proporcionando uma interface intuitiva e fácil de usar.
