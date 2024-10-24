@@ -64,7 +64,19 @@ ponto-supremo/
    ```
 
 2. **Instale as dependências:**
-   - No diretório raiz (onde ficam as pastas `server` e `client`):
+   - No diretório `client`, instale as dependências do frontend:
+     ```bash
+     cd client
+     npm install
+     cd ..
+     ```
+   - No diretório `server`, instale as dependências do backend:
+     ```bash
+     cd server
+     npm install
+     cd ..
+     ```
+   - No diretório raiz (onde ficam as pastas `server` e `client`), instale as dependências gerais:
      ```bash
      npm install
      ```
