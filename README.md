@@ -93,7 +93,7 @@ ponto-supremo/
 Para sugestões, dúvidas ou colaborações, sinta-se à vontade para entrar em contato:
 
 - **Email**: edvamsantos444@gmail.com
-- **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/mycomus)
+- **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/mycosmus)
 
 ---
 
