@@ -8,10 +8,11 @@
 
 ## 🚀 Funcionalidades
 
-- **Cadastro de Usuários**: Permite o registro e a gestão de usuários que utilizarão o sistema.
-- **Gerenciamento de Empresas**: Cadastre e gerencie diferentes empresas para as quais os usuários podem registrar seu ponto.
-- **Registro de Ponto**: Faça o registro de entradas e saídas com facilidade.
-- **Visualização em Tabela**: Acompanhe todos os registros em uma tabela organizada.
+- **Cadastro de Usuários**: Permite o registro completo de todos os dados dos colaboradores.
+- **Gerenciamento de Empresas**: Cadastre e gerencie todos os dados das empresas no sistema.
+- **Registro de Ponto**: Registre pontos ao selecionar o colaborador específico.
+- **Edição de Pontos e Tags**: Edite os pontos e associe tags conforme necessário.
+- **Visualização em Tabela**: Acompanhe todos os registros de ponto em uma tabela organizada.
 - **Autenticação**: Sistema de login seguro para proteger os dados dos usuários.
 
 ---
@@ -63,28 +64,18 @@ ponto-supremo/
    ```
 
 2. **Instale as dependências:**
-   - Para o backend:
+   - No diretório raiz (onde ficam as pastas `server` e `client`):
      ```bash
-     cd server
-     npm install
-     ```
-
-   - Para o frontend:
-     ```bash
-     cd client
      npm install
      ```
 
 3. **Inicie as aplicações:**
-   No diretório do `server`, execute:
-   ```bash
-   node server.js
-   ```
-
-   E no diretório do `client`, execute:
+   No diretório raiz, execute:
    ```bash
    npm start
    ```
+
+   Isso iniciará tanto o backend quanto o frontend simultaneamente.
 
 ---
 
